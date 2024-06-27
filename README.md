@@ -3,7 +3,7 @@
 
 | № | Проект | Описание | Стек |
 | ------ | ------ | ------ | ------ |
-| 1 | [Анализ пользовательского поведения в мобильном приложении](https://github.com/michael-spat/portfolio_projects/tree/main/aab_funnel) | ------ | ------ |
+| 1 | [Анализ пользовательского поведения в мобильном приложении](https://github.com/michael-spat/portfolio_projects/tree/main/aab_funnel) | В данном проекте мной были изучены принципы событийной аналитики. Я построил воронку продаж, исследовал путь пользователей до покупки. Проанализировал результаты A/B-теста введения новых шрифтов. Сравнил 2 контрольных группы между собой, убедился в правильном разделении трафика, а затем сравнил с тестовой группой. Выявлено, что новый шрифт значительно не повлияет на поведение пользователей. | pandas, Matplotlib, Seaborn, NumPy, SciPy |
 | 2 | [Проверка гипотез по увеличению выручки в интернет-магазине](https://github.com/michael-spat/portfolio_projects/tree/main/ab_testing) | ------ | ------ |
 | 3 | [Убытки и поиск точек роста приложения Procrastinate Pro+](https://github.com/michael-spat/portfolio_projects/tree/main/app_procrastinate_pro) | ------ | ------ |
 | 4 | [Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/michael-spat/portfolio_projects/tree/main/big_city_music) | ------ | ------ |
